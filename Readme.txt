@@ -1,4 +1,3 @@
-Thanks for downloading this template!
 
 Template Name: Delicious
 Template URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
